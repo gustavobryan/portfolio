@@ -126,12 +126,12 @@ main .techs .cards-container .card:hover {
 /*          RODAPE             */
 
 footer {
+    height: 4vh;
     background-color: #222;
-    padding: 15px;
-
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+    padding: 30px;
+    color: white;
+    justify-content: space-around;
+    text-align: center;
 }
 span {
     margin-right: 30%;    
